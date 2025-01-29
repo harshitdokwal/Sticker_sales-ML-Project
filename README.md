@@ -1,1 +1,1 @@
-# Sticker_sales
+# Sticker_sales Project Using Feature Engineering
