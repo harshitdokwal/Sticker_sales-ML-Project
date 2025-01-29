@@ -1,5 +1,5 @@
 # Sticker Sales Analysis and Forecasting
-![Sales]("imagessticker sales.jpg")
+! [Sales]("imagessticker sales.jpg")
 
 ## Project Overview
 This project analyzes and forecasts sticker sales trends using Python. The dataset includes sales data across different stores, countries, and products over time. We perform data preprocessing, feature engineering, exploratory data analysis (EDA), visualization, and machine learning modeling to predict future sales.
