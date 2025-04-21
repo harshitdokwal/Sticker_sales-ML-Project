@@ -44,7 +44,7 @@ CatBoost outperformed other models, achieving the lowest error in predictions.
 7. Tools & Libraries Used
 Python for data analysis, visualization, and modeling.
 Pandas & NumPy for data manipulation and preprocessing.
-Matplotlib & Seaborn for visualizing trends.
+Matplotlib, Plotly & Seaborn for visualizing trends.
 Scikit-learn & XGBoost for machine learning models.
 
 link: https://www.kaggle.com/competitions/playground-series-s5e1/overview
